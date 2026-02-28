@@ -268,7 +268,6 @@ int main(void) {
                 return 0;  // 直接退出程序
             default:
                 printf("Invalid choice. Please try again.\n");
-                printf("goodbye!");
                 break;
         }
     }
